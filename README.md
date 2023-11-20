@@ -1,4 +1,4 @@
-# cldv6212-poe-ST10089515 CODE ATTRIBUTION
+# cldv6212-poe-ST10089515 CODE ATTRIBUTION - Deatiled(Attribution ) in Folder
 
 Reference:
 Amazon, n.d. What is an Event-Driven Architecture?. [Online] .Available at: https://aws.amazon.com/event-driven-architecture/#:~:text=An%20event%2Ddriven%20architecture%20uses,on%20an%20e%2Dcommerce%20website. [Accessed 2 September 2023].
